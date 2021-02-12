@@ -18,7 +18,7 @@ https://github.com/jonathanbaraldi/devops
 
 ```sh
 
-$ ssh -i devops-ninja.pem ubuntu@<ip>  - RancherSerber - HOST A
+$ ssh -i devops-ninja.pem ubuntu@11.122.98.09  - RancherSerber - HOST A
 $ ssh -i devops-ninja.pem ubuntu@<ip>  - k8s-1         - HOST B
 $ ssh -i devops-ninja.pem ubuntu@<ip>  - k8s-2         - HOST C
 $ ssh -i devops-ninja.pem ubuntu@<ip>  - k8s-3         - HOST D
